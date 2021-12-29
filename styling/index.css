@@ -1,0 +1,12 @@
+*{}
+:root{
+
+}
+.d-f{display: flex;}
+.d-inline{display:inline}
+.d-inline-block{display: inline-block;}
+.align-item-center{align-items: center;}
+.align-item-left{align-items: left;}
+.align-item-right{align-items: right;}
+.align-item-items{align-items: center;}
+.container{width: 80%; margin: 0 auto}
