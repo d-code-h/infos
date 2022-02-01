@@ -4,8 +4,8 @@ PERSONAL INFORMATIONS OF CODE STACK MEMBERS
 Username: david1-lab
 Email: habeebdh1@gmail.com
 Phone Number: 08136876564
-Location: Minna, Niger State
-IT Focus: MERN Stack Developer
+Location: Minna, Niger State.
+IT Focus: MERN Stack Developer.
 ====================================================================================
 Username: tcodes643
 Email: tcodes643@gmail.com
